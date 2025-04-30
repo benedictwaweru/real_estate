@@ -1,4 +1,4 @@
-# Real Estate and Property Management System with PHP and MySQL
+# Real Estate and Property Management System with React, Laravel(PHP) and MariaDB
 
 ## Overview
 
