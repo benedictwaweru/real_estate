@@ -5,6 +5,9 @@
 	<a href="https://laravel.com" target="_blank">
 		<img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo">
 	</a>
+	<a href="https://mariadb.org/" target="_blank">
+		<img src="./assets/mariadb_org.svg" width="200" alt="MariaDB Logo">
+	</a>
 </p>
 
 # Real Estate and Property Management System with React, Laravel(PHP) and MariaDB
